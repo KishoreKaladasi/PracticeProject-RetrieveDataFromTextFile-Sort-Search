@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\PracticeProject-RetrieveDataFromTextFile-Sort-Search\PracticeProject-RetrieveDataFromTextFile-Sort-Search\bin\Debug\PracticeProject-RetrieveDataFromTextFile-Sort-Search.exe.config
+C:\Users\ASUS\source\repos\PracticeProject-RetrieveDataFromTextFile-Sort-Search\PracticeProject-RetrieveDataFromTextFile-Sort-Search\bin\Debug\PracticeProject-RetrieveDataFromTextFile-Sort-Search.exe
+C:\Users\ASUS\source\repos\PracticeProject-RetrieveDataFromTextFile-Sort-Search\PracticeProject-RetrieveDataFromTextFile-Sort-Search\bin\Debug\PracticeProject-RetrieveDataFromTextFile-Sort-Search.pdb
+C:\Users\ASUS\source\repos\PracticeProject-RetrieveDataFromTextFile-Sort-Search\PracticeProject-RetrieveDataFromTextFile-Sort-Search\obj\Debug\PracticeProject-RetrieveDataFromTextFile-Sort-Search.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\PracticeProject-RetrieveDataFromTextFile-Sort-Search\PracticeProject-RetrieveDataFromTextFile-Sort-Search\obj\Debug\PracticeProject-RetrieveDataFromTextFile-Sort-Search.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\PracticeProject-RetrieveDataFromTextFile-Sort-Search\PracticeProject-RetrieveDataFromTextFile-Sort-Search\obj\Debug\PracticeProject-RetrieveDataFromTextFile-Sort-Search.exe
+C:\Users\ASUS\source\repos\PracticeProject-RetrieveDataFromTextFile-Sort-Search\PracticeProject-RetrieveDataFromTextFile-Sort-Search\obj\Debug\PracticeProject-RetrieveDataFromTextFile-Sort-Search.pdb

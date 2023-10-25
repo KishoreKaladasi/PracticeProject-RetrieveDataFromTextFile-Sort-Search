@@ -1,0 +1,7 @@
+Ram,25
+chris,29
+Hamesworth,35
+Tony,52
+Stark,125
+jonsnow,98
+Cersie lannister,69
